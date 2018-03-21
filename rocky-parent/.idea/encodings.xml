@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../rocky-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-disruptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-disruptor/src/main/java/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../rocky-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-generator/src/main/java/generatorConfig.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../rocky-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocky-zookeeper" charset="UTF-8" />
+  </component>
+</project>

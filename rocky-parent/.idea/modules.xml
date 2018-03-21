@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../rocky-common/rocky-common.iml" filepath="$PROJECT_DIR$/../rocky-common/rocky-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-disruptor/rocky-disruptor.iml" filepath="$PROJECT_DIR$/../rocky-disruptor/rocky-disruptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-generator/rocky-generator.iml" filepath="$PROJECT_DIR$/../rocky-generator/rocky-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-kafka/rocky-kafka.iml" filepath="$PROJECT_DIR$/../rocky-kafka/rocky-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-manager/rocky-manager.iml" filepath="$PROJECT_DIR$/../rocky-manager/rocky-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-mapper/rocky-manager-mapper.iml" filepath="$PROJECT_DIR$/../rocky-manager/rocky-manager-mapper/rocky-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-pojo/rocky-manager-pojo.iml" filepath="$PROJECT_DIR$/../rocky-manager/rocky-manager-pojo/rocky-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-service/rocky-manager-service.iml" filepath="$PROJECT_DIR$/../rocky-manager/rocky-manager-service/rocky-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-manager/rocky-manager-web/rocky-manager-web.iml" filepath="$PROJECT_DIR$/../rocky-manager/rocky-manager-web/rocky-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-netty/rocky-netty.iml" filepath="$PROJECT_DIR$/../rocky-netty/rocky-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocky-parent.iml" filepath="$PROJECT_DIR$/rocky-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocky-zookeeper/rocky-zookeeper.iml" filepath="$PROJECT_DIR$/../rocky-zookeeper/rocky-zookeeper.iml" />
+    </modules>
+  </component>
+</project>
